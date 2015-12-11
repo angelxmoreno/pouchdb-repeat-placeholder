@@ -1,0 +1,29 @@
+{
+  "name": "pouchdb-repeat",
+  "authors": [
+    "Angel S. Moreno <angelxmoreno@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "resolutions": {
+    "pouchdb": "~5.1.0"
+  },
+  "dependencies": {
+    "pouchdb": "~5.1.0",
+    "angular": "~1.4.8",
+    "angular-pouchdb": "~4.0.0",
+    "pouchdb-find": "~0.8.0"
+  }
+}
